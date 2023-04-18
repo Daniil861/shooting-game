@@ -6,7 +6,7 @@
 
 ## Link
 
- - [Try win](https://daniil861.github.io/try_win/)
+ - [Shooting Game](https://shooting-game-nine.vercel.app/)
  
 ## Controls
 Arrows up and down
